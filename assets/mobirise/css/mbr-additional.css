@@ -1070,15 +1070,9 @@ section.lazy-placeholder:after {
 .cid-sLKf9tcX1d {
   background-image: url("../../../assets/images/div-1920x974.jpg");
 }
-.cid-sLKf9tcX1d .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
 @media (min-width: 992px) {
   .cid-sLKf9tcX1d .mbr-figure {
     padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
